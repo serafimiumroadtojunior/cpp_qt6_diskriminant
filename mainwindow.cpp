@@ -3,7 +3,6 @@
 #include <QMessageBox>
 #include <cmath>
 
-// Removed the include for matplotlibcpp
 
 MainWindow::MainWindow(QWidget* parent)
     : QMainWindow(parent)
