@@ -1,0 +1,1 @@
+# cpp_qt6_diskriminant
