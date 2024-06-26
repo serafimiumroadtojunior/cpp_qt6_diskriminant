@@ -12,6 +12,9 @@
 Після регістрації ви повинні перейти на <a href="https://www.qt.io/download-qt-installer-oss?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4">установник</a> де вам потрібно буде вибрати свою OS та натиснути на кнопку скачування установника.
 <img src="https://raw.githubusercontent.com/serafimiumroadtojunior/cpp_qt6_diskriminant/main/installer.png" alt="Скачування установника">
 <hr>
-
+Почнемо з єтапів встановки!
+<img src="https://github.com/serafimiumroadtojunior/cpp_qt6_diskriminant/blob/main/qt_1.png">
+Це перший єтап встановки, тут вам і потрібно було зарегеструватися бо якщо ви це не зробили, ви не зможете продовжити встановку QT.
+Як ви можете бачити, тут вам буде потрібно ввести пошту на яку ви регестрували свії QT аккаунт та пароль який ви теж ставили при регістрації.
 ```
 ```
