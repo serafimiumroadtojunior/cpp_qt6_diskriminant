@@ -30,7 +30,7 @@ void MainWindow::on_calculateButton_clicked() {
     }
 
     double c = ui->lineEditC->text().toDouble(&ok);
-    if (!ok) {
+    if (!ok) { //проверка если наша переменная является False
         QMessageBox::warning(this, "Input Error", "Пожалуйста, введите корректное число для c");
         return;
     }
